@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aaronperkel
+- 👀 Java / Python / HTML / SQL
+- 📫 aaron.perkel27@gmail.com
