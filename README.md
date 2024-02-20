@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @aaronperkel
-- 👀 Java / Python / HTML / SQL
-- 📫 aaron.perkel@gmail.com
+Java / Python / HTML / SQL / C++
+aaron.perkel@gmail.com
