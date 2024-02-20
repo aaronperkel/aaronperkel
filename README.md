@@ -1,2 +1,3 @@
-– Java / Python / HTML / SQL / C++
-– aaron.perkel@gmail.com
+- University of Vermont Computer Science
+- Java / Python / HTML / SQL / C++
+- aaron.perkel@gmail.com
