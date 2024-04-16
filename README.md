@@ -6,7 +6,7 @@
 ## Contact
 - aaron.perkel@gmail.com | aaron.perkel@uvm.edu
 - [Resume](https://aperkel.w3.uvm.edu/resume)
-- [LinkedIn](https://www.linkedin.com/in/aaron-perkel-6304bb257/)
+- [LinkedIn](www.linkedin.com/in/aaronperkel)
 
 
 <h3>The Languages I Use Are:</h3>
