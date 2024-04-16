@@ -6,11 +6,7 @@
 - Pure Mathematics Minor
 - Interested in Programming, IT, Enterprise Networking, and Aviation
 
-[aperkel.w3.uvm.edu](https://aperkel.w3.uvm.edu/resume)
-
-<a href = "https://aperkel.w3.uvm.edu/resume" download>
-<p>test</p>
-</a>
+[Resume](https://aperkel.w3.uvm.edu/resume)
 
 
 <h3>The Languages I Use Are:</h3>
