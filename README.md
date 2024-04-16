@@ -3,11 +3,6 @@
 - Pure Mathematics Minor
 - Interested in Programming, IT, Enterprise Networking, and Aviation
 
-## Contact
-- aaron.perkel@gmail.com | aaron.perkel@uvm.edu
-- [Resume](https://aperkel.w3.uvm.edu/resume)
-- [LinkedIn](www.linkedin.com/in/aaronperkel)
-
 
 <h3>The Languages I Use Are:</h3>
 <p>
