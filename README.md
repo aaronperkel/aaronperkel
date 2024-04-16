@@ -1,12 +1,12 @@
-
-- aaron.perkel@gmail.com
-
 # Aaron Perkel
 - University of Vermont Computer Science
 - Pure Mathematics Minor
 - Interested in Programming, IT, Enterprise Networking, and Aviation
 
-[Resume](https://aperkel.w3.uvm.edu/resume)
+## Contact
+- aaron.perkel@gmail.com | aaron.perkel@uvm.edu
+- [Resume](https://aperkel.w3.uvm.edu/resume)
+- [LinkedIn](https://www.linkedin.com/in/aaron-perkel-6304bb257/)
 
 
 <h3>The Languages I Use Are:</h3>
