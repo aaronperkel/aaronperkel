@@ -2,6 +2,7 @@
 - University of Vermont Computer Science
 - Pure Mathematics Minor
 - Interested in Programming, IT, Enterprise Networking, and Aviation
+- [Resume](aperkel.w3.uvm.edu/resume)
 
 
 <h3>What I Use to Develop:</h3>
