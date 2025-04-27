@@ -28,7 +28,7 @@ Outside of code and clouds, I’ve played piano since age 6, sax in marching ban
 
 ## 🛠️ Skills & Tools
 
-<summary>Languages & Frameworks</summary>
+Languages & Frameworks
 
 - **Languages:** Python · Java · C++ · C# · C · PHP · JavaScript  
 - **Web:** HTML5 · CSS3 · Tailwind  
@@ -37,7 +37,7 @@ Outside of code and clouds, I’ve played piano since age 6, sax in marching ban
 - **Tools:** Git · Docker · NGINX · VS Code · CLion · vim  
 - **Other:** Raspberry Pi · Arduino · PyBullet · Pygame  
 
-<summary>Dev Environment</summary>
+Dev Environment
 
 <p>
 <img alt="C++"
