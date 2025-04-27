@@ -1,6 +1,6 @@
 # Aaron Perkel
 
-[🎓 UVM CS ‘25](https://www.uvm.edu/) • 📐 Math Minor
+[🎓 UVM CS ‘25](https://www.uvm.edu/) • 📐 Math Minor <br>
 [🌐 Website](https://aperkel.w3.uvm.edu) • [📄 Resume](https://aperkel.w3.uvm.edu/resume) • [📫 Contact](mailto:me@aaronperkel.com)
 
 ---
@@ -28,7 +28,6 @@ Outside of code and clouds, I’ve played piano since age 6, sax in marching ban
 
 ## 🛠️ Skills & Tools
 
-<details>
 <summary>Languages & Frameworks</summary>
 
 - **Languages:** Python · Java · C++ · C# · C · PHP · JavaScript  
@@ -37,9 +36,7 @@ Outside of code and clouds, I’ve played piano since age 6, sax in marching ban
 - **Databases:** SQL (MySQL, SQLite)  
 - **Tools:** Git · Docker · NGINX · VS Code · CLion · vim  
 - **Other:** Raspberry Pi · Arduino · PyBullet · Pygame  
-</details>
 
-<details>
 <summary>Dev Environment</summary>
 
 <p>
@@ -60,7 +57,6 @@ src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=
 <img alt="Git"
 src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-</details>
 
 ---
 
@@ -77,10 +73,8 @@ src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git
 ---
 
 ## 🤝 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaronperkel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronperkel)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aaronperkel)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@aaronperkel.com)
 
-<p>
-<a href="https://github.com/aaronperkel">![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-<a href="https://linkedin.com/in/aaronperkel">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://youtube.com/@aaronperkel">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)</a>
-<a href="mailto:me@aaronperkel.com">![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</p>
