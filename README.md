@@ -1,6 +1,6 @@
 # Aaron Perkel
 
-[🎓 UVM CS ‘25](https://www.uvm.edu/) • 📐 Math Minor • ✈️ Aviation Enthusiast  
+[🎓 UVM CS ‘25](https://www.uvm.edu/) • 📐 Math Minor
 [🌐 Website](https://aperkel.w3.uvm.edu) • [📄 Resume](https://aperkel.w3.uvm.edu/resume) • [📫 Contact](mailto:me@aaronperkel.com)
 
 ---
