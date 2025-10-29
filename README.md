@@ -1,80 +1,51 @@
 # Aaron Perkel
 
-[🎓 UVM CS ‘25](https://www.uvm.edu/) • 📐 Math Minor <br>
-[🌐 Website](https://aperkel.w3.uvm.edu) • [📄 Resume](https://aperkel.w3.uvm.edu/resume) • [📫 Contact](mailto:me@aaronperkel.com)
+**Network Technician @ UVM ETS** • **B.S. CS ’25 (UVM)** • Burlington, VT  
+🌐 [aaronperkel.com](https://aaronperkel.com) &nbsp;•&nbsp; 📄 [Resume](https://aaronperkel.com/resume) &nbsp;•&nbsp; 📫 [me@aaronperkel.com](mailto:me@aaronperkel.com)
 
 ---
 
-## About Me
+## About
+I’m a computer scientist turned network/IT generalist who loves building small, useful systems and making them reliable. My happy place sits between **full-stack web**, **Linux networking**, and **automation**—with the occasional detour into **Swift/iOS** and **Raspberry Pi** tinkering. I also have a lifelong thing for aviation and flight sim.
 
-I’m a Computer Science senior at the University of Vermont, finishing in three years with a Math minor. I love:
-
-- **Full-stack development** (PHP, Python, JavaScript)  
-- **Enterprise IT & networking** (UVM ETS Student Technician)  
-- **Aviation & flight simulation** (VATSIM pilot/controller)  
-- **Automation & robotics** (evolutionary robotics, Raspberry Pi hacks)  
-
-Outside of code and clouds, I’ve played piano since age 6, sax in marching band, and I dabble in short films & photography.  
+- Enterprise tech & networking (UVM ETS)  
+- Full-stack dev (PHP/Python/JS) & SQL  
+- Automation on Linux (systemd, shell, cron)  
+- Prototyping on Raspberry Pi / e-paper
 
 ---
 
-## 📚 Education
-
-- **University of Vermont** — B.S. Computer Science, Math Minor  
-  _Aug 2022 – May 2025_  
-- **Middle Georgia State University** — M.S. Management, Aviation (Admitted)  
-
----
-
-## 🛠️ Skills & Tools
-
-Languages & Frameworks
-
-- **Languages:** Python · Java · C++ · C# · C · PHP · JavaScript  
-- **Web:** HTML5 · CSS3 · Tailwind  
-- **Mobile:** Swift (iOS) · Xcode  
-- **Databases:** SQL (MySQL, SQLite)  
-- **Tools:** Git · Docker · NGINX · VS Code · CLion · vim  
-- **Other:** Raspberry Pi · Arduino · PyBullet · Pygame  
-
-Dev Environment
-
-<p>
-<img alt="C++"
-src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="Java"
-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img alt="Python"
-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img alt="HTML5"
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="PHP"
-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Swift"
-src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<img alt="Docker"
-src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Git"
-src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## Now
+- Improving campus support workflows and network triage at UVM ETS  
+- Keeping my self-hosted services tidy (NGINX, Docker, backups)  
+- Shipping small utilities that reduce friction for friends/roommates
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
+| Project | Stack | What it does |
+|---|---|---|
+| **[Utility Manager](https://github.com/aaronperkel/Utility-Manager)** | PHP · SQL · Python (Flask) · Raspberry Pi | Splits/automates roommate utilities; tracks payments and overdue states. |
+| **[Room Status Sign](https://github.com/aaronperkel/Room-Display-Sign)** | Flask · Raspberry Pi · E-Ink | Door-mounted DND sign with an API and scheduled display updates. |
+| **[UVM Sublets](https://github.com/aaronperkel/sublet)** | PHP · MySQL · Leaflet · noUiSlider | Student-run sublet listings with map filters and simple moderation. |
+| **[CodeBuilder](https://github.com/gohacki/CodeBuilder)** | Swift · UIKit · Firebase | Drag-and-drop blocks to teach coding on iOS. |
+| **[Blob Kart](https://github.com/owncook/Blob-Kart)** | C++ · OpenGL · GLFW · GLM | Mario-Kart-style 3D racer built from scratch. |
 
-| Project            | Tech Stack                                              | Description                                      |
-|--------------------|---------------------------------------------------------|--------------------------------------------------|
-| **[UVM Sublets](https://github.com/aaronperkel/sublet)**   | PHP · MySQL · noUiSlider · Leaflet               | Student-run sublet listing platform with map filters. |
-| **[Utility Manager](https://github.com/aaronperkel/Utility-Manager)** | PHP · SQL · Python · Flask · Raspberry Pi         | Portal to split & automate roommate utility bills.    |
-| **[Blob Kart](https://github.com/owncook/Blob-Kart)**      | C++ · OpenGL · GLFW · GLM                        | Mario Kart-inspired 3D racing game for UVM.         |
-| **[CodeBuilder](https://github.com/gohacki/CodeBuilder)**  | Swift · UIKit · Firebase                         | iOS app teaching coding via drag-and-drop blocks.   |
-| **[Room Status Sign](https://github.com/aaronperkel/Room-Display-Sign)** | Flask · E-Ink · Python · Raspberry Pi           | Door-mounted DND sign powered by a back-end API.     |
+> More on my site → [aaronperkel.com/projects](https://aaronperkel.com)
 
 ---
 
-## 🤝 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaronperkel)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaronperkel)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aaronperkel)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@aaronperkel.com)
+## Tools I Reach For
+**Languages:** Python · Java · C/C++ · C# · PHP · JavaScript · Swift  
+**Web:** HTML · CSS · Tailwind · NGINX  
+**Databases:** MySQL · SQLite  
+**Ops/CLI:** Git · Docker · systemd · bash/zsh · vim · VS Code  
+**Hardware:** Raspberry Pi · e-paper (Waveshare)
 
+---
+
+## Connect
+- GitHub: [@aaronperkel](https://github.com/aaronperkel)  
+- LinkedIn: [/in/aaronperkel](https://linkedin.com/in/aaronperkel)  
+- YouTube: [@aaronperkel](https://youtube.com/@aaronperkel)  
+- Email: [me@aaronperkel.com](mailto:me@aaronperkel.com)
