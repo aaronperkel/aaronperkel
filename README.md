@@ -31,7 +31,7 @@ I’m a computer scientist turned network/IT generalist who loves building small
 | **[CodeBuilder](https://github.com/gohacki/CodeBuilder)** | Swift · UIKit · Firebase | Drag-and-drop blocks to teach coding on iOS. |
 | **[Blob Kart](https://github.com/owncook/Blob-Kart)** | C++ · OpenGL · GLFW · GLM | Mario-Kart-style 3D racer built from scratch. |
 
-> More on my site → [aaronperkel.com/projects](https://aaronperkel.com)
+> More on my site → [aaronperkel.com](https://aaronperkel.com)
 
 ---
 
