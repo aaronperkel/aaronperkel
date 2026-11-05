@@ -7,13 +7,13 @@ By day I'm a network technician at the University of Vermont. I also run **Aaron
 ## Featured work
 
 **[Catamount Sublets](https://aaronperkel.com/projects/catamount-sublets)**: sublet marketplace for UVM students, with 141 users and 75 listings. I rebuilt my original PHP app as Next.js + Postgres, replaced the university's single sign-on with NetID-restricted email codes, and migrated every listing and photo in a ~20-minute live cutover.
-*Next.js · TypeScript · Postgres (Neon) · Drizzle · Better Auth · Vercel* · [catamountsublets.com](https://catamountsublets.com)
+*Next.js · TypeScript · Postgres (Neon) · Drizzle · Better Auth · Vercel* · [catamountsublets.com](https://catamountsublets.com) · [source](https://github.com/Aaron-Perkel-LLC/catamount-sublets)
 
 **[Red King Registration](https://aaronperkel.com/projects/red-king-registration)**: registration and Stripe payments for a nonprofit that runs Irish dance competitions, ~350 dancers per event. Webhook-driven payment state, idempotent off-session waitlist charges, and business rules enforced in Postgres. Launching 2027. Client project, private repo.
 *Next.js · TypeScript · Postgres · Drizzle · Auth.js · Stripe · Resend*
 
 **[Lejer](https://aaronperkel.com/projects/lejer)**: multi-tenant bill splitting for people who share a lease. Postgres row-level security per household, hashed email-code sign-in, and hourly cron reminders sent at each household's local time.
-*Next.js · TypeScript · Postgres (Neon) · Vercel Cron, Queues & Blob · Resend* · [uselejer.com](https://uselejer.com)
+*Next.js · TypeScript · Postgres (Neon) · Vercel Cron, Queues & Blob · Resend* · [uselejer.com](https://uselejer.com) · [source](https://github.com/Aaron-Perkel-LLC/lejer)
 
 **[Íocón Graphics](https://aaronperkel.com/projects/iocon-graphics)**: storefront and live order queue for an Irish dance graphics studio. Customers get an email when they move up the queue, and the owner runs everything from an admin portal.
 *Next.js · TypeScript · TiDB · Vercel Blob · Tailwind* · [iocongraphics.com](https://iocongraphics.com)
