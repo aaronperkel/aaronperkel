@@ -26,7 +26,6 @@ Full write-ups for each are at **[aaronperkel.com/projects](https://aaronperkel.
 - **[Mileage](https://github.com/aaronperkel/mileage-tracker-app)**: one-field odometer log that copies the month's entries into the format UVM's reimbursement workbook wants. *Next.js · Drizzle · Turso*
 - **[Funko](https://github.com/aaronperkel/funko)**: collection and wishlist tracker. *Next.js · Drizzle · Turso*
 - **[Room Status Sign](https://github.com/aaronperkel/Room-Display-Sign)**: e-paper door sign on a Raspberry Pi, updated from any browser on the network. *Python · Flask*
-- **[UVM Sublets (legacy)](https://github.com/aaronperkel/sublet)**: the original PHP version of Catamount Sublets. *PHP · MySQL · Leaflet*
 
 <details>
 <summary>From school</summary>
